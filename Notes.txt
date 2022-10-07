@@ -1,0 +1,2 @@
+1. useReducer: providing state through stateProvider
+2. Reducer function while calculation subtotal
